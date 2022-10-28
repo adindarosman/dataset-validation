@@ -1,5 +1,5 @@
 # Dataset-validation
-Validate the dataset using K-Folds Cross and choose the best algorithm model for a Iris and Haberman's Survival dataset
+Validate the dataset using K-Folds Cross and choose the best algorithm model for a Haberman's Survival dataset
 ## Description of Project Files
 - README.md : A file containing an overview, summary and description of the entire Project.
 - Dataset_Validation.ipynb : A python notebook which contains all the code used in performing the Validation.
